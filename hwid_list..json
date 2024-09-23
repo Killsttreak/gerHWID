@@ -1,8 +1,7 @@
 {
-    "valid_hwids": {
-        "3623171c-5081-5126-abc3-5a9d96af2890": "qwerty"
-        "8EE3237A-41A1-11EB-80EA-8C8CAA576024": "qwerty"
-        "0025_38AA_01B4_EBC1.":
-        "0025_38A-A_01-11EB-80EA-B4_EBC1.":
-    }
+  "valid_hwids": [
+    "0025_38A-A_01-11EB-80EA-B4_EBC1.",
+    "AABBCCDD-1234-11EB-80EA-123456789ABC",
+    "12345678-90AB-11EB-80EA-DEF123456789"
+  ]
 }
